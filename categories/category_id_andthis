@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#category_id_andthis> rdfs:label "AndThis" ;
-    rdf:Description "b" ;
+    rdf:Description "b_edited desription" ;
     rdf:ID "category_id_andthis" .
 
