@@ -6,6 +6,5 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#category_id_newcategory> rdfs:label "NewCategory" ;
     rdf:Description "description" ;
-    rdf:ID "category_id_newcategory" ;
-    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#category_id_andthenthis> .
+    rdf:ID "category_id_newcategory" .
 
