@@ -6,6 +6,5 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#ad265988_planete> rdfs:label "Planète" ;
     rdf:Description "Descr. objet planète" ;
-    rdf:ID "ad265988_planete" ;
-    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#7291fd2f_comete> .
+    rdf:ID "ad265988_planete" .
 
