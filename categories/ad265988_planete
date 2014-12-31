@@ -5,6 +5,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#ad265988_planete> rdfs:label "Planète" ;
-    rdf:Description "Descr. objet planète" ;
+    rdf:Description "Desc. objet planète" ;
     rdf:ID "ad265988_planete" .
 
