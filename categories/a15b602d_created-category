@@ -4,7 +4,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#a15b602d_created-category> rdfs:label "Created Category" ;
-    rdf:Description "Description test" ;
+<http://ld.iri-research.org/ontology/categorisation/category#a15b602d_created-category> rdfs:label "Created Category2" ;
+    rdf:Description "Description test2" ;
     rdf:ID "a15b602d_created-category" .
 
