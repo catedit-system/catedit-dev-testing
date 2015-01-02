@@ -4,7 +4,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#ad265988_planete> rdfs:label "Planète" ;
-    rdf:Description "Desc. objet planète 2" ;
-    rdf:ID "ad265988_planete" .
+<http://ld.iri-research.org/ontology/categorisation/category#a15b602d_created-category> rdfs:label "Created Category" ;
+    rdf:Description "Description test" ;
+    rdf:ID "a15b602d_created-category" .
 
