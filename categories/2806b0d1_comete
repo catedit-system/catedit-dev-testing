@@ -3,7 +3,8 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#d6195851_newcattest1> rdfs:label "NewCatTest1" ;
-    rdf:Description "descr" ;
-    rdf:ID "d6195851_newcattest1" .
+<http://ld.iri-research.org/ontology/categorisation/category#2806b0d1_comete> rdfs:label "Comète" ;
+    rdf:Description "Description comète" ;
+    rdf:ID "2806b0d1_comete" ;
+    rdfs:Resource <http://ma-ressource.com> .
 
