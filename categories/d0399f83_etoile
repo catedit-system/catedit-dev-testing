@@ -5,6 +5,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#d0399f83_etoile> rdfs:label "Etoile" ;
-    rdf:Description "Desc. objet étoile, edited for test" ;
+    rdf:Description "Desc. objet étoile, edited for test, second" ;
     rdf:ID "d0399f83_etoile" .
 
