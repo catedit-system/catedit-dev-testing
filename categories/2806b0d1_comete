@@ -4,7 +4,8 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#2806b0d1_comete> rdfs:label "Comète" ;
-    rdf:Description "Description comète" ;
+    rdf:Description "Description comète 4" ;
     rdf:ID "2806b0d1_comete" ;
-    rdfs:Resource <http://ma-ressource.com> .
+    rdfs:Resource <http://added_resource>,
+        <http://ma-ressource.com> .
 
