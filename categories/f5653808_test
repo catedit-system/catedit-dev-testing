@@ -6,5 +6,6 @@
 <http://ld.iri-research.org/ontology/categorisation/category#f5653808_test> rdfs:label "Test" ;
     rdf:Description "testcommentaire" ;
     rdf:ID "f5653808_test" ;
-    rdfs:comment "bleh" .
+    rdfs:comment "bleh",
+        "test_comment" .
 
