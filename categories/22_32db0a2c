@@ -3,7 +3,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#22_32db0a2c> rdfs:label "22" ;
+<http://ld.iri-research.org/ontology/categorisation/category#22_32db0a2c> rdfs:label "22_edited" ;
     rdf:Description "22" ;
     rdf:ID "22_32db0a2c" .
 
