@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#5_19ac8db2> rdfs:label "5" ;
-    rdf:Description "5" ;
+    rdf:Description "5_edited" ;
     rdf:ID "5_19ac8db2" .
 
