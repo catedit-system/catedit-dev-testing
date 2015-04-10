@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#6_de10cae5> rdfs:label "6" ;
-    rdf:Description "6 no desc" ;
+    rdf:Description "6 desc finale" ;
     rdf:ID "6_de10cae5" .
 
