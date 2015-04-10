@@ -7,5 +7,5 @@
 <http://ld.iri-research.org/ontology/categorisation/category#test3_5b464a8e> rdfs:label "test3" ;
     rdf:Description "test3" ;
     rdf:ID "test3_5b464a8e" ;
-    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#a_fb5d453f> .
+    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#try-test_035ef810> .
 

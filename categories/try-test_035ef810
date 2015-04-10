@@ -4,8 +4,8 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#test_e91c2a60> rdfs:label "test" ;
-    rdf:Description "a" ;
-    rdf:ID "test_e91c2a60" ;
-    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#test_e91c2a60> .
+<http://ld.iri-research.org/ontology/categorisation/category#try-test_035ef810> rdfs:label "try_test" ;
+    rdf:Description "desc" ;
+    rdf:ID "try-test_035ef810" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#test3_5b464a8e> .
 
