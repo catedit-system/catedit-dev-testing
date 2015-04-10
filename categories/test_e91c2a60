@@ -3,7 +3,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#6_de10cae5> rdfs:label "6" ;
-    rdf:Description "6 desc desc" ;
-    rdf:ID "6_de10cae5" .
+<http://ld.iri-research.org/ontology/categorisation/category#test_e91c2a60> rdfs:label "test" ;
+    rdf:Description "a" ;
+    rdf:ID "test_e91c2a60" .
 
