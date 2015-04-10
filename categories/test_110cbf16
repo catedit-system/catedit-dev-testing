@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#test_110cbf16> rdfs:label "test" ;
-    rdf:Description "tets" ;
+    rdf:Description "test" ;
     rdf:ID "test_110cbf16" .
 
