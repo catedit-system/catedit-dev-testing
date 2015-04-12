@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#categorie-b_ab9e8a6e> rdfs:label "Catégorie B" ;
-    rdf:Description "descr" ;
+    rdf:Description "description cat B" ;
     rdf:ID "categorie-b_ab9e8a6e" .
 
