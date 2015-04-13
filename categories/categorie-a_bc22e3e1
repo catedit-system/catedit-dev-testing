@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#categorie-a_bc22e3e1> rdfs:label "Catégorie A" ;
-    rdf:Description "description" ;
+    rdf:Description "description cat A" ;
     rdf:ID "categorie-a_bc22e3e1" .
 
