@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#categorie-d_b77fb162> rdfs:label "Catégorie D" ;
-    rdf:Description "@" ;
+    rdf:Description "@@" ;
     rdf:ID "categorie-d_b77fb162" .
 
