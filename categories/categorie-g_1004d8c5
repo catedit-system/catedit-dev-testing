@@ -2,6 +2,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#categorie-g_1004d8c5> rdfs:label "Catégorie G" ;
-    rdf:Description "g nn" ;
+    rdf:Description "g" ;
     rdf:ID "categorie-g_1004d8c5" .
 
