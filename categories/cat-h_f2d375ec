@@ -1,7 +1,8 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#cat-h_f2d375ec> rdfs:label "cat H" ;
+<http://ld.iri-research.org/ontology/categorisation/category#cat-h_f2d375ec> rdfs:label "Catégorie H",
+        "cat H" ;
     rdf:Description "Nouvelle categorie" ;
     rdf:ID "cat-h_f2d375ec" ;
     rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#categorie-g_1004d8c5> .
